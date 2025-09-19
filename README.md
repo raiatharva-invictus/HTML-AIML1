@@ -1,0 +1,1 @@
+This page is related to learning of basic web dev
